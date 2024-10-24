@@ -1,9 +1,11 @@
 ## main
 
 ### ✨ Features and improvements
+- ⚠️ Changed `geometry-type` to identify "Multi-" features ([#4877](https://github.com/maplibre/maplibre-gl-js/pull/4877))
 - _...Add new stuff here..._
 
 ### 🐞 Bug fixes
+- ⚠️ Fix order of normalizeSpriteURL and transformRequest in loadSprite ([#3897](https://github.com/maplibre/maplibre-gl-js/issues/3897))
 - _...Add new stuff here..._
 
 ## v5.0.0-pre.3
